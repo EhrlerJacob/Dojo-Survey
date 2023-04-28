@@ -1,0 +1,1 @@
+This project focuses on using information gathered from a survey on an HTML page, and then sending that information in the form of a dictionary to a seperate route, or HTML page, to display the given information submitted into the survey.
